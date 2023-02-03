@@ -1,0 +1,96 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Maude"
+    },
+    {
+      "id": 2,
+      "name": "Merle"
+    }
+  ],
+  "completions": [
+    {
+      "requestId": "1",
+      "plumberId": "1",
+      "date_created": "2023-01-30T21:51:29.582Z",
+      "id": 1
+    },
+    {
+      "requestId": "8",
+      "plumberId": "2",
+      "date_created": "2023-01-30T21:55:56.669Z",
+      "id": 2
+    },
+    {
+      "requestId": "14",
+      "plumberId": "1",
+      "date_created": "2023-01-31T17:39:47.818Z",
+      "id": 3
+    },
+    {
+      "requestId": "11",
+      "plumberId": "2",
+      "date_created": "2023-01-31T17:40:19.699Z",
+      "id": 4
+    }
+  ],
+  "requests": [
+    {
+      "id": 1,
+      "description": "Aut sint voluptatem fugit eius quas molestiae modi.",
+      "address": "34445 Bianka Ports",
+      "budget": 400,
+      "neededBy": "2021-08-27"
+    },
+    {
+      "description": "Help me dear god i need help",
+      "address": "123 ABC St.",
+      "budget": "1000000.00",
+      "neededBy": "2023-01-31",
+      "id": 7
+    },
+    {
+      "description": "Leaky bathtub faucet",
+      "address": "1000 Infinity Way",
+      "budget": "900",
+      "neededBy": "2023-01-31",
+      "id": 8
+    },
+    {
+      "description": "Kitchen sink leaks",
+      "address": "1011 Forever Avenue",
+      "budget": "457",
+      "neededBy": "2023-01-31",
+      "id": 9
+    },
+    {
+      "description": "Uh-oh uh-oh uh-oh uh-oh uh-oh uh-oh uh-oh uh-oh uh-oh",
+      "address": "123 Place Pl",
+      "budget": "420",
+      "neededBy": "2023-01-31",
+      "id": 10
+    },
+    {
+      "description": "Is this thing on?",
+      "address": "123 Hello Blvd",
+      "budget": "111",
+      "neededBy": "2023-01-31",
+      "id": 11
+    },
+    {
+      "description": "Please assist with my plumbing concern. I'm not giving any additional information here. You have to come quick.",
+      "address": "123 Your Mom's House Ln",
+      "budget": "4000",
+      "neededBy": "2023-01-31",
+      "id": 12
+    },
+    {
+      "description": "Hey, complete this",
+      "address": "789 Completed Ct",
+      "budget": "777",
+      "neededBy": "2023-01-31",
+      "id": 14
+    }
+  ]
+}

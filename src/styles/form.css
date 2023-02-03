@@ -1,0 +1,13 @@
+.field {
+    display: flex;
+    flex-direction: column;
+    margin: 12px auto;
+}
+
+.label {
+    font-size: 110%;
+}
+
+.completedRequest {
+    background: lightgreen;
+}
